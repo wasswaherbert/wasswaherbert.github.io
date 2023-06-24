@@ -8,8 +8,8 @@ https://templatemo.com/tm-458-lavish
 
 body
 {
-	background: #000000;
-	color: #999;
+	background: #e7e7e7;
+	color: #000;
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
@@ -48,7 +48,7 @@ footer .fp-tableCell
 /* start all heading */
 h1,h2,h3,h4,h5
     {
-        color: #ffffff;
+        color: #000;
         font-weight: bold;
     }
 /* end all heading */
@@ -171,7 +171,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/home-bg.png');
+        background-color: #dfe3ee;
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
@@ -214,7 +214,7 @@ h1,h2,h3,h4,h5
 /* start work */
 #work
     {
-        background: #1a1a1a;
+        background: #dfe3ee;
     }
 #work h2
     {
@@ -275,7 +275,7 @@ h1,h2,h3,h4,h5
     }
 #about span
     {
-        color: #ffffff;
+        color: #000;
         font-weight: bold;
         display: block;
         padding-bottom: 6px;
@@ -290,7 +290,7 @@ h1,h2,h3,h4,h5
 /* start portfolio */
 #portfolio
     {
-        background: #1a1a1a;
+        background: #dfe3ee;
         text-align: center;
     }
 #portfolio h2
@@ -337,11 +337,11 @@ h1,h2,h3,h4,h5
 		font-size: 24px;
 		font-weight: bold;
         padding-bottom: 20px;
-		color: #ffffff;
+		color: #000;
     }
 #contact .fa
     {
-        border: 2px solid #ffffff;
+        border: 2px solid #000;
         border-radius: 50%;
         color: #D43F52;
         width: 50px;
